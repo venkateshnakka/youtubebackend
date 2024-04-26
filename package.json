@@ -1,0 +1,19 @@
+{
+  "name": "youtube_backend",
+  "version": "1.0.0",
+  "description": "backend project for youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkateshnakka/youtubebackend.git"
+  },
+  "author": "venkatesh nakka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkateshnakka/youtubebackend/issues"
+  },
+  "homepage": "https://github.com/venkateshnakka/youtubebackend#readme"
+}
